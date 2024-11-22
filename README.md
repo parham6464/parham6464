@@ -8,8 +8,8 @@
 A Full Stack Python Developer that I`m Mostly interesting to web back-end and windows softwares<br><br>
 
 # 🌐 Socials:
-[![My Socials](https://skillicons.dev/icons?i=discord,&theme=dark&perline=1)](https://discord.com/users/walkerofficial)
-[![My Socials](https://skillicons.dev/icons?i=gmail,&theme=dark&perline=1)](https://mail.google.com/mail/u/?authuser=asj646464@gmail.com)
+[![My Socials](https://skillicons.dev/icons?i=discord,&theme=dark&perline=1)](https://discord.com/users/walkerofficial)<br>
+[![My Socials](https://skillicons.dev/icons?i=gmail,&theme=dark)](https://mail.google.com/mail/u/?authuser=asj646464@gmail.com)
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px"> Languages and Tools:
 
